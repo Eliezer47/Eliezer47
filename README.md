@@ -7,7 +7,7 @@
 
 <h3 align="center">Un apasionado Desarrollador Móvil de Nicaragua</h3>
 
-- 🔭 Actualmente trabajo en [Explora](https://github.com/kevonht/Explora)
+- 🔭 Actualmente trabajo en mejorar mis habilidades como desarrollador.
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript, TypeScript.**
 

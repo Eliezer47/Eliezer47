@@ -9,7 +9,7 @@
 
 - 🔭 Actualmente trabajo en mejorar mis habilidades como desarrollador.
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript, TypeScript.**
+- 🌱 Actualmente estoy aprendiendo **JavaScript, TypeScript, Dart, Flutter**
 
 - 📫 Cómo contactarme **eliezerponcexd@gmail.com**
 

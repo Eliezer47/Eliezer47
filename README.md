@@ -46,7 +46,13 @@ Actualmente fortalezco mi perfil en **React**, **TypeScript**, **React Native**,
 ## Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet,android,mysql,sqlite,firebase,aws,git,figma,postman&perline=7&theme=dark" alt="Stack principal de Eliezer Ponce" />
+  <img src="https://img.shields.io/badge/IA-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA con OpenAI" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet,android,mysql,sqlite,firebase,aws,git,figma,postman&perline=7&theme=dark" alt="Tecnologías principales: React, JavaScript, TypeScript, Node.js, C#, .NET, Android, MySQL, SQLite, Firebase, AWS, Git, Figma y Postman" />
 </p>
 
 ## Mi forma de construir

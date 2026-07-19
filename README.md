@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,45:13233E,100:0E7490&text=Eliezer%20Ponce&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Ink%20Multiservicios%20%7C%20Sistema%20Ink%20%7C%20Soporte%20Industrial%20%7C%20.NET%20%7C%20SQL%20Server&descSize=16&descAlignY=58&animation=fadeIn" alt="Eliezer Ponce profile header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,45:13233E,100:0E7490&text=Eliezer%20Ponce&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Ink%20Multiservicios%20%7C%20Sistema%20Ink%20%7C%20Soporte%20Tecnologico%20%7C%20.NET%20%7C%20SQL%20Server&descSize=16&descAlignY=58&animation=fadeIn" alt="Eliezer Ponce profile header" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=900&height=56&lines=Trabajo+en+Ink+Multiservicios;Mantengo+infraestructura%2C+redes%2C+CCTV+y+equipos+industriales;Desarrollo+y+mejoro+el+Sistema+Ink;Uso+IA+para+analisis%2C+codigo+y+documentacion" alt="Animacion de texto sobre el perfil tecnico de Eliezer Ponce" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=900&height=56&lines=Trabajo+en+Ink+Multiservicios;Combino+soporte+tecnologico%2C+infraestructura+y+software;Desarrollo+y+mejoro+el+Sistema+Ink;Uso+IA+para+analisis%2C+codigo+y+documentacion" alt="Animacion de texto sobre el perfil tecnico de Eliezer Ponce" />
 
 <br />
 
@@ -17,9 +17,9 @@
 
 ## Hola, soy Eliezer
 
-Soy **M.Sc. en Ingenieria de Software y Sistemas Informaticos**, con experiencia en desarrollo de software, soporte tecnologico, infraestructura, equipos industriales y automatizacion de procesos.
+Soy **M.Sc. en Ingenieria de Software y Sistemas Informaticos**, con experiencia en desarrollo de software, soporte tecnologico, infraestructura y automatizacion de procesos.
 
-Actualmente trabajo en **Ink Multiservicios**, donde soy responsable de garantizar la continuidad operativa de la infraestructura tecnologica y de equipos industriales, ademas del desarrollo y mejora continua del **Sistema Ink**.
+Actualmente trabajo en **Ink Multiservicios**, donde combino soporte tecnologico, infraestructura y mejora continua del **Sistema Ink** para apoyar la continuidad operativa y agilizar procesos internos.
 
 Tambien he sido reconocido con el **Premio Nacional a la Innovacion TIC** y el **primer lugar en el Concurso Juvenil de Aplicaciones Moviles**, ambos otorgados por CONICYT en 2021.
 
@@ -28,9 +28,9 @@ Tambien he sido reconocido con el **Premio Nacional a la Innovacion TIC** y el *
 | Area | Valor que aporto |
 | --- | --- |
 | Backend y sistemas | C#/.NET, APIs REST, Entity Framework, autenticacion, modulos administrativos y logica de negocio. |
-| Sistema Ink | Desarrollo, mantenimiento, correccion de errores, nuevas funcionalidades, optimizacion y automatizacion de procesos internos. |
-| Equipos industriales | Diagnostico, mantenimiento preventivo/correctivo y soporte a impresoras industriales, bordadoras y equipos laser. |
-| Infraestructura | Computadoras, perifericos, redes, conectividad, recursos compartidos, CCTV y atencion a usuarios. |
+| Sistema Ink | Mejora continua, correccion de errores, nuevas funcionalidades y automatizacion de procesos internos. |
+| Soporte tecnologico | Diagnostico, mantenimiento, atencion a usuarios e infraestructura para continuidad operativa. |
+| Infraestructura | Redes, equipos, conectividad, recursos compartidos y soporte a la operacion. |
 | Automatizacion | Analisis de necesidades operativas, mejora de procesos y reduccion de tareas repetitivas. |
 | IA aplicada | Uso ChatGPT y Codex para analisis, depuracion, documentacion, generacion de ideas y revision de codigo. |
 
@@ -44,21 +44,17 @@ Este proyecto resume mi forma de trabajar: entender el proceso real, disenar la 
 
 ### Soporte tecnologico y Sistema Ink - Ink Multiservicios
 
-- Garantizo la continuidad operativa de la infraestructura tecnologica y equipos industriales.
-- Diagnostico y mantenimiento preventivo/correctivo de impresoras industriales.
-- Soporte tecnico a maquinas bordadoras, equipos laser y equipos de produccion.
-- Instalacion, configuracion y mantenimiento de computadoras, perifericos, sistemas y aplicaciones.
-- Instalacion, configuracion y mantenimiento de redes, conectividad y recursos compartidos.
-- Instalacion, supervision y mantenimiento de sistemas de videovigilancia CCTV.
-- Desarrollo, revision y mantenimiento del Sistema Ink.
-- Analisis de requerimientos, correccion de errores, nuevas funcionalidades, optimizacion y automatizacion de procesos internos.
+- Apoyo la continuidad operativa desde soporte tecnologico, infraestructura y software.
+- Brindo soporte tecnologico, mantenimiento e infraestructura para la operacion diaria.
+- Desarrollo y mejoro el Sistema Ink segun necesidades internas.
+- Analizo requerimientos, corrijo errores, implemento mejoras y automatizo procesos.
 
 ### Soporte TI y proyectos internos
 
 - Reparacion, mantenimiento y diagnostico de equipos de computo.
 - Administracion de Office 365 y atencion a usuarios.
 - Gestion de inventario, compras y proveedores de activos TI.
-- Instalacion y mantenimiento de sistemas CCTV.
+- Mantenimiento de recursos tecnologicos e infraestructura interna.
 - Seguimiento de incidencias, soporte remoto y documentacion de soluciones.
 - Apoyo en implementacion de nuevos proyectos TI y automatizacion de procesos.
 

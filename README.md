@@ -49,7 +49,11 @@ Actualmente fortalezco mi perfil en **React**, **TypeScript**, **React Native**,
   <img src="./assets/icon-ai.svg" width="48" height="48" alt="IA" />
   <img src="./assets/icon-chatgpt.svg" width="48" height="48" alt="ChatGPT" />
   <img src="./assets/icon-codex.svg" width="48" height="48" alt="Codex" />
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet,android,mysql,sqlite,firebase,aws,git,figma,postman&perline=7&theme=dark" alt="Tecnologías principales: React, JavaScript, TypeScript, Node.js, C#, .NET, Android, MySQL, SQLite, Firebase, AWS, Git, Figma y Postman" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet&perline=6&theme=dark" alt="Tecnologías core: React, JavaScript, TypeScript, Node.js, C# y .NET" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,mysql,sqlite,firebase,aws,git,figma,postman,npm&perline=9&theme=dark" alt="Herramientas y plataformas: Android, MySQL, SQLite, Firebase, AWS, Git, Figma, Postman y npm" />
 </p>
 
 ## Mi forma de construir

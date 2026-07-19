@@ -30,8 +30,8 @@ Actualmente fortalezco mi perfil en **React**, **TypeScript**, **React Native**,
 | Backend y sistemas | C#, .NET, APIs REST, Entity Framework, autenticación, módulos administrativos y lógica de negocio. |
 | Datos | SQL Server, MySQL, SQLite, Firebase, respaldos/restauración y manejo de información operativa. |
 | Producto | Login, rutas protegidas, paneles administrativos, catálogos, usuarios, clientes, órdenes y flujos reales de negocio. |
-| IA aplicada | Uso de IA como apoyo para análisis de requerimientos, depuración, documentación, generación de ideas, revisión de código y aceleración del flujo de trabajo. |
-| Herramientas | Git, Postman, Figma, npm, Visual Studio, CLI de .NET, pruebas/builds e instaladores para entrega. |
+| IA aplicada | Desde que incorporé IA a mi flujo de trabajo, desarrollo apoyándome en ChatGPT y ahora Codex para análisis, depuración, documentación, generación de ideas y revisión de código. |
+| Herramientas | Git, Postman, Figma, npm, Visual Studio, CLI de .NET, ChatGPT, Codex, pruebas/builds e instaladores para entrega. |
 
 ## Evidencia en proyectos
 
@@ -54,7 +54,7 @@ Actualmente fortalezco mi perfil en **React**, **TypeScript**, **React Native**,
 - Empiezo entendiendo el proceso real que el software debe resolver.
 - Priorizo interfaces claras y flujos que una persona pueda usar sin fricción.
 - Me interesa que el sistema no solo funcione, sino que sea mantenible.
-- Uso IA como apoyo para pensar mejor, validar decisiones y avanzar con más velocidad sin perder criterio técnico.
+- Trabajo con IA como parte de mi proceso diario: antes con ChatGPT y ahora también con Codex para avanzar más rápido sin perder criterio técnico.
 - Mi meta técnica: unir **buen diseño**, **lógica sólida** y **valor práctico**.
 
 ## Conecta conmigo
@@ -64,13 +64,6 @@ Actualmente fortalezco mi perfil en **React**, **TypeScript**, **React Native**,
 - Portfolio: [github.com/Eliezer47/portfolio](https://github.com/Eliezer47/portfolio)
 - GitHub: [github.com/Eliezer47](https://github.com/Eliezer47)
 
----
-
-<div align="center">
-
-**It's not over until I win.**
-
-</div>
 
 
 ---

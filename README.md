@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/eliezer47/">LinkedIn</a> ·
 <a href="mailto:eliezerponcexd@gmail.com">Email</a> ·
-<a href="https://github.com/Eliezer47/portfolio">Portfolio</a> ·
+<a href="https://eliezer47.github.io/portfolio/">Portfolio</a> ·
 <a href="https://github.com/Eliezer47">GitHub</a>
 
 </div>
@@ -41,7 +41,13 @@ Actualmente fortalezco mi perfil en **React**, **TypeScript**, **React Native**,
 | [Portfolio](https://github.com/Eliezer47/portfolio) | React, navegación, preloader, secciones de proyectos, CV, animaciones visuales y diseño personal. |
 | [CounterAppRNTS](https://github.com/Eliezer47/CounterAppRNTS) | React Native, estructura móvil, tooling moderno, TypeScript, Jest y ESLint. |
 | [Tratamiento_Imagenes](https://github.com/Eliezer47/Tratamiento_Imagenes) | JavaScript aplicado a procesamiento de imágenes, matrices RGB y manipulación de píxeles. |
-| Sistema Ink | Sistema de gestión en .NET con API, escritorio Windows, SQL Server, respaldos, restauración, migraciones, módulos administrativos e instaladores. |
+| Sistema Ink Multiservicios | Sistema de gestión cliente-servidor en .NET con API REST, escritorio Windows, SQL Server, autenticación, módulos administrativos, catálogos, clientes, órdenes de servicio, respaldos, restauración, migraciones, logs e instaladores. |
+
+## Proyecto destacado: Sistema Ink Multiservicios
+
+Sistema Ink Multiservicios representa mi trabajo más completo en desarrollo de software aplicado a operación real. Incluye backend en **.NET**, aplicación de escritorio para Windows, persistencia con **SQL Server**, módulos administrativos, autenticación, manejo de datos operativos, respaldos/restauración y empaquetado con instaladores para entrega en entorno cliente-servidor.
+
+Este proyecto me permitió trabajar el ciclo completo: análisis del proceso, arquitectura, interfaz, lógica de negocio, base de datos, pruebas de build, migraciones, distribución y mantenimiento.
 
 ## Stack principal
 
@@ -68,5 +74,5 @@ Actualmente fortalezco mi perfil en **React**, **TypeScript**, **React Native**,
 
 - LinkedIn: [eliezer47](https://www.linkedin.com/in/eliezer47/)
 - Email: [eliezerponcexd@gmail.com](mailto:eliezerponcexd@gmail.com)
-- Portfolio: [github.com/Eliezer47/portfolio](https://github.com/Eliezer47/portfolio)
+- Portfolio: [eliezer47.github.io/portfolio](https://eliezer47.github.io/portfolio/)
 - GitHub: [github.com/Eliezer47](https://github.com/Eliezer47)

@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,45:13233E,100:0E7490&text=Eliezer%20Ponce&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=React%20%7C%20React%20Native%20%7C%20.NET%20%7C%20SQL%20Server%20%7C%20IA&descSize=16&descAlignY=58&animation=fadeIn" alt="Eliezer Ponce profile header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,45:13233E,100:0E7490&text=Eliezer%20Ponce&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Analista%20Programador%20%7C%20.NET%20%7C%20SQL%20Server%20%7C%20React%20Native%20%7C%20BI&descSize=16&descAlignY=58&animation=fadeIn" alt="Eliezer Ponce profile header" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=900&height=56&lines=Construyo+apps+web+y+moviles;Trabajo+con+React%2C+React+Native%2C+.NET+y+SQL+Server;Uso+IA+para+acelerar+analisis%2C+codigo+y+documentacion" alt="Animación de texto sobre el perfil técnico de Eliezer Ponce" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=900&height=56&lines=Construyo+sistemas+web%2C+moviles+y+de+gestion;Trabajo+con+.NET%2C+SQL+Server%2C+React+Native+y+Power+BI;Uso+IA+para+analisis%2C+codigo%2C+documentacion+y+mejora+continua" alt="Animacion de texto sobre el perfil tecnico de Eliezer Ponce" />
 
 <br />
 
@@ -15,39 +15,68 @@
 
 </div>
 
-## Sobre mí
+## Hola, soy Eliezer
 
-Soy desarrollador de Nicaragua con enfoque en aplicaciones web y móviles, sistemas de gestión y soluciones que hacen más simples los procesos del día a día. Me gusta trabajar desde la idea hasta la entrega: interfaz, lógica, datos, pruebas básicas, despliegue y mantenimiento.
+Soy **Analista Programador** y **M.Sc. en Ingenieria de Software y Sistemas Informaticos**, con experiencia en desarrollo de software, bases de datos, inteligencia de negocio, soporte TI y automatizacion de procesos.
 
-Actualmente fortalezco mi perfil en **React**, **TypeScript**, **React Native**, **C#/.NET**, **SQL Server** e **IA aplicada al desarrollo** para construir productos más completos, mantenibles y útiles.
+Actualmente trabajo en soluciones internas donde combino **SQL Server**, **SSRS**, **Power BI**, **C#/.NET**, **Python**, **Odoo**, soporte tecnico y administracion TI. Me interesa construir software claro, mantenible y util para procesos reales.
 
-## Fortalezas técnicas
+Tambien he sido reconocido con el **Premio Nacional a la Innovacion TIC** y el **primer lugar en el Concurso Juvenil de Aplicaciones Moviles**, ambos otorgados por CONICYT en 2021.
 
-| Área | Lo que he trabajado |
+## En que puedo aportar
+
+| Area | Valor que aporto |
 | --- | --- |
-| Frontend web | SPAs con React, React Router, estados, formularios, Bootstrap, componentes reutilizables y consumo de APIs con Axios. |
-| Mobile | React Native con tooling TypeScript, estructura móvil moderna y bases de Android. |
-| Backend y sistemas | C#, .NET, APIs REST, Entity Framework, autenticación, módulos administrativos y lógica de negocio. |
-| Datos | SQL Server, MySQL, SQLite, Firebase, respaldos/restauración y manejo de información operativa. |
-| Producto | Login, rutas protegidas, paneles administrativos, catálogos, usuarios, clientes, órdenes y flujos reales de negocio. |
-| IA aplicada | Desde que incorporé IA a mi flujo de trabajo, desarrollo apoyándome en ChatGPT y ahora Codex para análisis, depuración, documentación, generación de ideas y revisión de código. |
-| Herramientas | Git, Postman, Figma, npm, Visual Studio, CLI de .NET, ChatGPT, Codex, pruebas/builds e instaladores para entrega. |
-
-## Evidencia en proyectos
-
-| Proyecto | Qué muestra |
-| --- | --- |
-| [YourTicket](https://github.com/Eliezer47/YourTicket) | React, rutas protegidas, login, módulos de órdenes, usuarios, clientes, vendedores, eventos y zonas. |
-| [Portfolio](https://github.com/Eliezer47/portfolio) | React, navegación, preloader, secciones de proyectos, CV, animaciones visuales y diseño personal. |
-| [CounterAppRNTS](https://github.com/Eliezer47/CounterAppRNTS) | React Native, estructura móvil, tooling moderno, TypeScript, Jest y ESLint. |
-| [Tratamiento_Imagenes](https://github.com/Eliezer47/Tratamiento_Imagenes) | JavaScript aplicado a procesamiento de imágenes, matrices RGB y manipulación de píxeles. |
-| Sistema Ink Multiservicios | Sistema de gestión cliente-servidor en .NET con API REST, escritorio Windows, SQL Server, autenticación, módulos administrativos, catálogos, clientes, órdenes de servicio, respaldos, restauración, migraciones, logs e instaladores. |
+| Backend y sistemas | C#/.NET, APIs REST, Entity Framework, autenticacion, modulos administrativos y logica de negocio. |
+| Datos y BI | SQL Server, procedimientos almacenados, funciones, triggers, SSRS, Power BI, Power Query y DAX. |
+| Web y mobile | React, React Native, TypeScript, rutas protegidas, formularios, consumo de APIs y experiencias responsive. |
+| Automatizacion | Scripts, integraciones, reportes, flujos de trabajo, Odoo y reduccion de tareas repetitivas. |
+| Soporte TI | Office 365, inventario, soporte a usuarios, CCTV, proveedores, documentacion e implementacion de proyectos internos. |
+| IA aplicada | Uso ChatGPT y Codex para analisis, depuracion, documentacion, generacion de ideas y revision de codigo. |
 
 ## Proyecto destacado: Sistema Ink Multiservicios
 
-Sistema Ink Multiservicios representa mi trabajo más completo en desarrollo de software aplicado a operación real. Incluye backend en **.NET**, aplicación de escritorio para Windows, persistencia con **SQL Server**, módulos administrativos, autenticación, manejo de datos operativos, respaldos/restauración y empaquetado con instaladores para entrega en entorno cliente-servidor.
+**Sistema Ink Multiservicios** es una solucion cliente-servidor para gestion operativa. Incluye backend en **.NET**, aplicacion de escritorio para Windows, persistencia con **SQL Server**, autenticacion, modulos administrativos, catalogos, clientes, ordenes de servicio, respaldos, restauracion, logs, migraciones e instaladores.
 
-Este proyecto me permitió trabajar el ciclo completo: análisis del proceso, arquitectura, interfaz, lógica de negocio, base de datos, pruebas de build, migraciones, distribución y mantenimiento.
+Este proyecto resume mi forma de trabajar: entender el proceso real, disenar la arquitectura, construir la interfaz, modelar datos, implementar reglas de negocio, probar builds y preparar una entrega instalable para entorno Windows.
+
+## Experiencia reciente
+
+### Analista de programacion - Joya de Nicaragua
+
+- Desarrollo y optimizacion de consultas SQL, procedimientos almacenados, funciones y triggers.
+- Diseno, mantenimiento y mejora de reportes en SSRS.
+- Creacion de dashboards y reportes interactivos en Power BI con Power Query y DAX.
+- Integracion y transformacion de datos desde ERP Infor Visual Manufacturing y fuentes externas.
+- Soporte tecnico relacionado con bases de datos, reportes, procesos automatizados y servicios en AWS/Linux.
+- Desarrollo de soluciones personalizadas con Python para Odoo, flujos de trabajo, modelos de datos e integraciones.
+
+### Soporte TI y proyectos internos
+
+- Reparacion, mantenimiento y diagnostico de equipos de computo.
+- Administracion de Office 365 y atencion a usuarios.
+- Gestion de inventario, compras y proveedores de activos TI.
+- Instalacion y mantenimiento de sistemas CCTV.
+- Seguimiento de incidencias, soporte remoto y documentacion de soluciones.
+- Apoyo en implementacion de nuevos proyectos TI y automatizacion de procesos.
+
+## Reconocimientos
+
+| Reconocimiento | Detalle |
+| --- | --- |
+| Premio Nacional a la Innovacion TIC | Primer lugar otorgado por CONICYT en octubre de 2021. |
+| Concurso Juvenil de Aplicaciones Moviles | Primer lugar en categoria avanzada con la aplicacion Explora. |
+| Hackathon Nicaragua 2021 | Segundo lugar en categoria Startup. |
+
+## Evidencia en proyectos
+
+| Proyecto | Que muestra |
+| --- | --- |
+| [Portfolio](https://eliezer47.github.io/portfolio/) | Presentacion profesional, proyectos, resumen tecnico y caso de estudio de Sistema Ink. |
+| [YourTicket](https://github.com/Eliezer47/YourTicket) | React, rutas protegidas, login, ordenes, usuarios, clientes, vendedores, eventos y zonas. |
+| [CounterAppRNTS](https://github.com/Eliezer47/CounterAppRNTS) | React Native, TypeScript, estructura movil, Jest y ESLint. |
+| [Tratamiento_Imagenes](https://github.com/Eliezer47/Tratamiento_Imagenes) | JavaScript aplicado a matrices RGB, manipulacion de pixeles y procesamiento de imagenes. |
+| Sistema Ink Multiservicios | .NET, SQL Server, API REST, escritorio Windows, seguridad, datos operativos, respaldos e instaladores. |
 
 ## Stack principal
 
@@ -55,7 +84,7 @@ Este proyecto me permitió trabajar el ciclo completo: análisis del proceso, ar
   <img src="./assets/icon-ai.svg" width="48" height="48" alt="IA" />
   <img src="./assets/icon-chatgpt.svg" width="48" height="48" alt="ChatGPT" />
   <img src="./assets/icon-codex.svg" width="48" height="48" alt="Codex" />
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet&perline=6&theme=dark" alt="Tecnologías core: React, JavaScript, TypeScript, Node.js, C# y .NET" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet&perline=6&theme=dark" alt="Tecnologias core: React, JavaScript, TypeScript, Node.js, C# y .NET" />
 </p>
 
 <p align="center">
@@ -65,10 +94,10 @@ Este proyecto me permitió trabajar el ciclo completo: análisis del proceso, ar
 ## Mi forma de construir
 
 - Empiezo entendiendo el proceso real que el software debe resolver.
-- Priorizo interfaces claras y flujos que una persona pueda usar sin fricción.
+- Priorizo interfaces claras y flujos que una persona pueda usar sin friccion.
 - Me interesa que el sistema no solo funcione, sino que sea mantenible.
-- Trabajo con IA como parte de mi proceso diario: antes con ChatGPT y ahora también con Codex para avanzar más rápido sin perder criterio técnico.
-- Mi meta técnica: unir **buen diseño**, **lógica sólida** y **valor práctico**.
+- Trabajo con IA como parte de mi proceso diario para avanzar mas rapido sin perder criterio tecnico.
+- Mi meta tecnica: unir buen diseno, logica solida y valor practico.
 
 ## Conecta conmigo
 
